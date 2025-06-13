@@ -1,10 +1,10 @@
-# 📝 ToDoList 
+# ToDoList 
 
 Aplikasi ToDoList sederhana berbasis PHP dan Bootstrap, menyimpan data di session. Cocok untuk latihan dasar CRUD dan UI interaktif.
 
 ---
 
-## 📌 Fitur Aplikasi
+## Fitur Aplikasi
 
 - Tambah tugas
 - Ubah status selesai/belum
@@ -14,7 +14,7 @@ Aplikasi ToDoList sederhana berbasis PHP dan Bootstrap, menyimpan data di sessio
 
 ---
 
-## ▶️ Cara Menjalankan
+## Cara Menjalankan
 
 1. Clone atau download repo ini ke folder `htdocs/`
 2. Jalankan **Apache** di XAMPP
